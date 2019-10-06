@@ -144,5 +144,3 @@ query {
 #### Notes
 
 I did not handle the errors
-
-### Part 2
