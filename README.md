@@ -10,7 +10,13 @@ Technical test FreshPlanet
 You have to install node modules and start the server
 
 ```
-yarn install && start
+yarn install && yarn start
+```
+
+Then go to: 
+
+```
+http://localhost:4000/graphql
 ```
 
 ### Part1
