@@ -1,7 +1,5 @@
 # GraphQL API
 
-Technical test FreshPlanet
-
 ## Getting Started
 
 
