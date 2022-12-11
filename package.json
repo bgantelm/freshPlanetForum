@@ -19,7 +19,7 @@
   "homepage": "https://github.com/bgantelm/freshPlanetForum#readme",
   "dependencies": {
     "apollo-server-express": "^2.9.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "graphql": "^14.5.8",
     "lodash": "^4.17.15",
     "uuid": "^3.3.3"
